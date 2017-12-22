@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160.667 180.75" style="enable-background:new 0 0 160.667 180.75;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#A90201;}
+	.st2{display:inline;fill:#333333;}
+	.st3{display:inline;}
+	.st4{fill:#A90201;}
+	.st5{fill:#333333;}
+	.st6{display:inline;fill:none;stroke:#333333;stroke-width:2;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#A90201;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="Слой_1" class="st0">
+	<circle class="st1" cx="80.333" cy="96.625" r="37.563"/>
+</g>
+<g id="Слой_3" class="st0">
+	<circle class="st2" cx="80.333" cy="96.625" r="37.563"/>
+</g>
+<g id="Слой_4" class="st0">
+	<g class="st3">
+		<rect x="58.208" y="85" class="st4" width="44.25" height="3.75"/>
+		<rect x="58.208" y="94.833" class="st4" width="44.25" height="3.75"/>
+		<rect x="58.208" y="104.5" class="st4" width="44.25" height="3.75"/>
+	</g>
+</g>
+<g id="Слой_2" class="st0">
+	<g class="st3">
+		<path class="st5" d="M102.457,99.415H83.058v19.665h-5.449V99.415H58.21v-5.448h19.399V74.169h5.449v19.798h19.399V99.415z"/>
+	</g>
+</g>
+<g id="Слой_5" class="st0">
+	<g class="st3">
+		<path class="st5" d="M65.639,65.61l-3.36,4.9v17.782h-5.741V39.287h5.741v22.402l3.641-5.88l11.061-16.522h6.931L69.069,60.639
+			l16.802,27.653H79.22L65.639,65.61z"/>
+	</g>
+	<g class="st3">
+		<path class="st5" d="M89.582,118.727h-4.971v18.481H78.87V88.203h11.972c9.241,0,14.352,5.461,14.352,14.842
+			c0,8.051-3.57,13.371-9.731,15.121l11.342,19.042h-6.511L89.582,118.727z M84.612,113.336h6.16c5.671,0,8.611-3.57,8.611-10.081
+			c0-6.371-2.94-9.661-8.541-9.661h-6.23V113.336z"/>
+	</g>
+	<g class="st3">
+		<path class="st5" d="M95.991,74.873v9.042H93.95l-0.181-1.266c-0.542,0.904-1.524,1.602-3.022,1.602
+			c-2.506,0-4.185-1.653-4.185-4.211c0-2.79,1.938-4.211,4.934-4.211h1.989v-0.956c0-1.602-0.594-2.506-1.963-2.506
+			c-1.111,0-1.938,0.594-2.066,1.808H86.95c0.129-2.609,1.886-4.21,4.624-4.21C94.493,69.964,95.991,71.747,95.991,74.873z
+			 M93.485,77.998h-1.989c-1.523,0-2.402,0.698-2.402,2.041c0,1.24,0.801,1.989,2.17,1.989s2.222-0.878,2.222-2.17V77.998z"/>
+	</g>
+</g>
+<g id="Слой_6" class="st0">
+	<line class="st6" x1="104.435" y1="40.165" x2="40.42" y2="123.698"/>
+	<line class="st6" x1="124.394" y1="40.165" x2="60.379" y2="123.698"/>
+</g>
+<g id="Слой_7">
+	<line class="st7" x1="110.435" y1="37.165" x2="46.42" y2="120.698"/>
+	<line class="st7" x1="114.028" y1="56.329" x2="50.013" y2="139.862"/>
+	<line class="st7" x1="63.411" y1="37.165" x2="107.507" y2="94.705"/>
+</g>
+</svg>
